@@ -1,0 +1,4 @@
+title: QuantumAlgorithmDeepDive
+description: "Comprehensive study and documentation of quantum algorithms, including both well-known and experimental approaches."
+theme: jekyll-theme-cayman
+markdown: kramdown
