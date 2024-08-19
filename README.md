@@ -1,8 +1,20 @@
 # QuantumAlgorithmDeepDive
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Contributors](https://img.shields.io/badge/contributors-1-orange)
+
 ## Overview
 
 QuantumAlgorithmDeepDive is an extensive project aimed at providing a deep and comprehensive study of quantum algorithms. This repository is designed to be a rich resource for both well-known and lesser-known quantum algorithms, updated to reflect the most recent advancements in quantum computing as of 2024.
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Goals](#project-goals)
+- [Project Structure](#project-structure)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Goals
 
