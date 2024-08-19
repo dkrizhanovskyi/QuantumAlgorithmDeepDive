@@ -24,12 +24,12 @@ QuantumAlgorithmDeepDive is an extensive project aimed at providing a deep and c
 
 ## Project Structure
 
-- **Introduction:** Basic concepts and the history of quantum computing.
-- **Core Algorithms:** Detailed explanations of key quantum algorithms.
-- **Rare and Experimental Algorithms:** Documentation of lesser-known algorithms.
-- **Applications:** Real-world use cases and potential applications of quantum algorithms.
-- **Research and Open Problems:** Overview of current research directions and unresolved issues.
-- **Resources:** A curated list of references and further reading materials.
+- **[Introduction](docs/INTRODUCTION.md):** Basic concepts and the history of quantum computing.
+- **[Core Algorithms](docs/QUANTUM_ALGORITHMS_OVERVIEW.md):** Detailed explanations of key quantum algorithms.
+- **[Rare and Experimental Algorithms](docs/RARE_QUANTUM_ALGORITHMS.md):** Documentation of lesser-known algorithms.
+- **[Applications](docs/APPLICATIONS.md):** Real-world use cases and potential applications of quantum algorithms.
+- **[Research and Open Problems](docs/RESEARCH.md):** Overview of current research directions and unresolved issues.
+- **[Resources](docs/RESOURCES.md):** A curated list of references and further reading materials.
 
 ## How to Use
 
