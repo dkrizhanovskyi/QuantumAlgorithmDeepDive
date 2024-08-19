@@ -2,3 +2,12 @@ title: QuantumAlgorithmDeepDive
 description: "Comprehensive study and documentation of quantum algorithms, including both well-known and experimental approaches."
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+header_pages:
+  - index.md
+  - docs/INTRODUCTION.md
+  - docs/QUANTUM_ALGORITHMS_OVERVIEW.md
+  - docs/RARE_QUANTUM_ALGORITHMS.md
+  - docs/APPLICATIONS.md
+  - docs/RESEARCH.md
+  - docs/RESOURCES.md
