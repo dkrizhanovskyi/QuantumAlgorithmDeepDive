@@ -1,6 +1,8 @@
 title: QuantumAlgorithmDeepDive
 description: "Comprehensive study and documentation of quantum algorithms, including both well-known and experimental approaches."
+
 theme: jekyll-theme-cayman
+
 markdown: kramdown
 
 header_pages:
@@ -11,3 +13,28 @@ header_pages:
   - docs/APPLICATIONS.md
   - docs/RESEARCH.md
   - docs/RESOURCES.md
+
+sass:
+  style: compressed
+
+include:
+  - assets/css/style.css
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+seo:
+  title: "QuantumAlgorithmDeepDive"
+  description: "In-depth exploration of quantum algorithms, including applications and research."
+  url: "https://dkrizhanovskyi.github.io/QuantumAlgorithmDeepDive/"
+  twitter:
+    username: "dkrizhanovskyi"
+    card: "summary_large_image"
+  facebook:
+    admins: "your_facebook_id"
+  google_analytics: "UA-XXXXXXXX-X"
+
+permalink: pretty
+paginate: 5
